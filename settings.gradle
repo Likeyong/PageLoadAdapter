@@ -1,0 +1,3 @@
+include ':pageloadadapter'
+include ':app'
+rootProject.name = "pageLoadAdapter"
