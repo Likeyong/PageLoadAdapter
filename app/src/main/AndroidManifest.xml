@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.maxcion.pageloadadapter">
+    package="com.maxcion.pageload">
 
     <application
         android:allowBackup="true"
@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PageLoadAdapter">
+        <activity android:name=".MultiTypeActivity"></activity>
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".MixedLayoutActivity" />
+        <activity android:name=".SingleColumnActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
