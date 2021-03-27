@@ -31,8 +31,9 @@ dependencies {
     implementation 'androidx.annotation:annotation:1.1.0'
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'com.google.android.material:material:1.1.0'
-    implementation project(path: ':pageloadadapter')
+//    implementation project(path: ':pageloadadapter')
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'com.maxcion:pageloadadapter:1.0.0'
 }
