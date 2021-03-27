@@ -8,16 +8,13 @@ RecyclerView几乎在每个app里面都有被使用，但凡使用了列表就�
 gradle引用
 >    implementation 'com.maxcion:pageloadadapter:1.0.0'
 
-项目地址：https://github.com/Likeyong/PageLoadAdapter
+![single.gif](https://github.com/Likeyong/PageLoadAdapter/blob/master/single.gif)
 
 
-![single.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/86336cc7a75e4c8ba510f8d5b7f0d639~tplv-k3u1fbpfcp-watermark.image)
+![mixed.gif](https://github.com/Likeyong/PageLoadAdapter/blob/master/mixed.gif)
 
 
-![mixed.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f73ba22722d34dd68030fce6806c4cb5~tplv-k3u1fbpfcp-watermark.image)
-
-
-![mult.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a6ce605309345919e496c7051bbff35~tplv-k3u1fbpfcp-watermark.image)
+![mult.gif](https://github.com/Likeyong/PageLoadAdapter/blob/master/mult.gif)
 
 ## 单列分页加载
 ```
